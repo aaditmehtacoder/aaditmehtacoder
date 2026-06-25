@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aadit Mehta
 
-### Full-stack AI developer, builder, and SWE intern from the Bay Area
+### Full-stack AI developer, builder, and SWE intern from Santa Clara, California
 
 * 🚀 I’m currently working on **[OpenRubric](https://openrubric.vercel.app/)** — a judging and scoring platform for hackathons and competitions
 
@@ -13,8 +13,8 @@
 
   * **[Beacon5](https://devpost.com/software/beacon5)** — 1st place winner at Synthesis Hacks
   * **[BoreNoMore](https://apps.apple.com/us/app/borenomore/id6749814755)** — iOS app available on the App Store
-  * **[Callzi](https://www.callzi.online/)** — AI voice receptionist (releasing soon...)
-  * **[OpenRubric](https://openrubric.vercel.app/)** — open-source judging platform
+  * **[Callzi](https://www.callzi.online/)** — AI voice receptionist, releasing soon
+  * **[OpenRubric](https://openrubric.vercel.app/)** — open-source judging platform for hackathons and competitions
 
 * 🌱 I’m currently learning **PyTorch, LLM training, Swift, and production-grade AI systems**
 
@@ -26,4 +26,12 @@
 
 * 📫 Reach me at **[aaditmehtacoder@gmail.com](mailto:aaditmehtacoder@gmail.com)**
 
-* ⚡ Fun fact: I love aviation and I’m currently learning how to fly a Cessna 172!
+* 🏟️ Favorite Bay Area sports teams:
+
+  * NHL: **San Jose Sharks**
+  * NBA: **Golden State Warriors**
+  * MLB: **San Francisco Giants**
+  * MLS: **San Jose Earthquakes**
+  * NFL: **San Francisco 49ers**
+
+* ⚡ Fun fact: I love aviation and I’m currently learning how to fly a Cessna 172

@@ -2,20 +2,28 @@
 
 ### Full-stack AI developer, builder, and SWE intern from the Bay Area
 
-- 🚀 I’m currently working on **AI tools, GitHub automation, and full-stack products**
+* 🚀 I’m currently working on **[OpenRubric](https://openrubric.vercel.app/)** — a judging and scoring platform for hackathons and competitions
 
-- 💻 I’m a **Software Engineering Intern at Venu AI**, where I work across backend, frontend, and AI-powered developer tools
+  * Open source: **[github.com/aaditmehtacoder/openrubric](https://github.com/aaditmehtacoder/openrubric)**
+  * Demo: **[openrubric.vercel.app/video](https://openrubric.vercel.app/video)**
 
-- 🌱 I’m currently learning **PyTorch, LLM training, Swift, and production-grade AI systems**
+* 💻 I’m a **Software Engineering Intern at [Venu AI](https://www.venu3d.com/)**, working across full-stack development, GitHub automation, and AI-powered developer tools
 
-- 🛠️ I build with **Next.js, TypeScript, React, Python, Expo React Native, Supabase, Firebase, and AI APIs**
+* 🛠️ Some projects I’ve built:
 
-- 🤖 Projects I’ve worked on include **Beacon5**, **BoreNoMore**, **Lighthouse**, **OpenRubric**, and startup-style AI products
+  * **[Beacon5](https://devpost.com/software/beacon5)** — 1st place winner at Synthesis Hacks
+  * **[BoreNoMore](https://apps.apple.com/us/app/borenomore/id6749814755)** — iOS app available on the App Store
+  * **[Callzi](https://www.callzi.online/)** — AI voice receptionist (releasing soon...)
+  * **[OpenRubric](https://openrubric.vercel.app/)** — open-source judging platform
 
-- 💬 Ask me about **AI apps, hackathons, GitHub bots, full-stack development, React Native, and shipping fast**
+* 🌱 I’m currently learning **PyTorch, LLM training, Swift, and production-grade AI systems**
 
-- 🌐 Check out my work at **[aaditmehta.xyz](https://aaditmehta.xyz)**
+* ⚙️ I build with **Next.js, TypeScript, React, Python, Expo React Native, Supabase, Firebase, and AI APIs**
 
-- 📫 Reach me at **[your email here]**
+* 💬 Ask me about **AI apps, hackathons, GitHub bots, full-stack development, React Native, and shipping fast**
 
-- ⚡ Fun fact: I’m 15 and already building products, AI tools, and real-world software
+* 🌐 Check out my work at **[aaditmehta.xyz](https://aaditmehta.xyz)**
+
+* 📫 Reach me at **[aaditmehtacoder@gmail.com](mailto:aaditmehtacoder@gmail.com)**
+
+* ⚡ Fun fact: I love aviation and I’m currently learning how to fly a Cessna 172!

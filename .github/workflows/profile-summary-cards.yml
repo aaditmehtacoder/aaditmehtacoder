@@ -1,0 +1,36 @@
+name: Generate GitHub Profile Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 7 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-summary-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate profile summary cards
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: "-7"
+          AUTO_PUSH: true
+          THEME: github_dark
+          ANIMATION: load
+          DURATION: "2.5"
+          NAME: "Aadit Mehta"

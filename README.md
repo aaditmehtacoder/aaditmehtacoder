@@ -61,16 +61,16 @@
 ## GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aaditmehtacoder&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Aadit's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditmehtacoder&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Aadit's top languages" />
+  <img width="100%" src="https://raw.githubusercontent.com/aaditmehtacoder/aaditmehtacoder/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Aadit's GitHub contribution history" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aaditmehtacoder&theme=transparent&hide_border=true" alt="Aadit's GitHub streak" />
+  <img width="49%" src="https://raw.githubusercontent.com/aaditmehtacoder/aaditmehtacoder/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Aadit's top repository languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/aaditmehtacoder/aaditmehtacoder/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Aadit's GitHub statistics" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aaditmehtacoder&bg_color=00000000&color=2563EB&line=2563EB&point=60A5FA&area=true&hide_border=true" alt="Aadit's contribution graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/aaditmehtacoder/aaditmehtacoder/main/profile-summary-card-output/github_dark/streak.svg" alt="Aadit's GitHub contribution streak" />
 </div>
 
 ## What I Am Focused On

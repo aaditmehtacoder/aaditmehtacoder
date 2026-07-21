@@ -9,11 +9,11 @@
 <p>
   <a href="https://www.pick44.com"><img src="https://img.shields.io/badge/Pick44-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Pick44" /></a>
   <a href="https://openrubric.vercel.app"><img src="https://img.shields.io/badge/OpenRubric-111827?style=for-the-badge&logo=github&logoColor=white" alt="OpenRubric" /></a>
-  <a href="https://www.aaditmehta.xyz"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://aaditmehta.dev"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:aaditmehtacoder@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aaditmehtacoder&style=flat-square&color=2563EB" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=aaditmehtacoder&style=flat-square&color=2563EB&base=1017" alt="Profile views" />
 
 </div>
 
@@ -92,7 +92,7 @@ Looking for     High-impact engineering projects, internships, and collaborators
 
 I enjoy working with founders, engineers, hackathon organizers, and ambitious teams building useful technology.
 
-- **Portfolio:** [aaditmehta.xyz](https://www.aaditmehta.xyz)
+- **Portfolio:** [aaditmehta.dev](https://aaditmehta.dev)
 - **Email:** [aaditmehtacoder@gmail.com](mailto:aaditmehtacoder@gmail.com)
 - **GitHub:** [@aaditmehtacoder](https://github.com/aaditmehtacoder)
 

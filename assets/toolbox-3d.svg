@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Aadit Mehta's 3D engineering toolbox</title>
+  <desc id="desc">Glossy three-dimensional tiles for TypeScript, JavaScript, Python, React, Next.js, AI, Expo, Supabase, Firebase, Swift, PostgreSQL, and GitHub.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060914"/><stop offset=".55" stop-color="#10182d"/><stop offset="1" stop-color="#07111d"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".55"/><stop offset=".38" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#000" stop-opacity=".12"/></linearGradient>
+    <linearGradient id="ts" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#56b9f2"/><stop offset="1" stop-color="#1976b8"/></linearGradient>
+    <linearGradient id="js" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff36a"/><stop offset="1" stop-color="#f4c400"/></linearGradient>
+    <linearGradient id="py" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4da8df"/><stop offset=".48" stop-color="#3776ab"/><stop offset=".52" stop-color="#ffd84a"/><stop offset="1" stop-color="#f4bd2f"/></linearGradient>
+    <linearGradient id="react" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#263b57"/><stop offset="1" stop-color="#101827"/></linearGradient>
+    <linearGradient id="next" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#343434"/><stop offset="1" stop-color="#050505"/></linearGradient>
+    <linearGradient id="ai" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c084fc"/><stop offset=".46" stop-color="#7c3aed"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <linearGradient id="expo" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#38445d"/><stop offset="1" stop-color="#10182d"/></linearGradient>
+    <linearGradient id="supa" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6ee7b7"/><stop offset="1" stop-color="#10b981"/></linearGradient>
+    <linearGradient id="firebase" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe66d"/><stop offset=".55" stop-color="#ffb300"/><stop offset="1" stop-color="#f97316"/></linearGradient>
+    <linearGradient id="swift" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff9a62"/><stop offset=".45" stop-color="#ff5d3b"/><stop offset="1" stop-color="#ef2d56"/></linearGradient>
+    <linearGradient id="pg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#5b9bd5"/><stop offset="1" stop-color="#2f6792"/></linearGradient>
+    <linearGradient id="gh" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#505866"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="210%"><feDropShadow dx="0" dy="13" stdDeviation="9" flood-color="#000" flood-opacity=".58"/></filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
+  <ellipse cx="250" cy="90" rx="300" ry="150" fill="#0ea5e9" opacity=".10" filter="url(#glow)"/>
+  <ellipse cx="955" cy="275" rx="330" ry="170" fill="#8b5cf6" opacity=".09" filter="url(#glow)"/>
+  <text x="600" y="42" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800" letter-spacing="5" fill="#bae6fd">THE TOOLBOX</text>
+
+  <!-- Row 1 -->
+  <g transform="translate(55 72)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#ts)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".48"/><text x="75" y="71" text-anchor="middle" font-family="Arial" font-size="42" font-weight="900" fill="#fff">TS</text><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" letter-spacing="1" fill="#e0f2fe">TYPESCRIPT</text>
+  </g>
+  <g transform="translate(243 72)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#js)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".48"/><text x="75" y="71" text-anchor="middle" font-family="Arial" font-size="42" font-weight="900" fill="#1f2937">JS</text><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" letter-spacing="1" fill="#422006">JAVASCRIPT</text>
+  </g>
+  <g transform="translate(431 72)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#py)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".4"/><text x="75" y="71" text-anchor="middle" font-family="Arial" font-size="40" font-weight="900" fill="#fff">PY</text><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" letter-spacing="1" fill="#fff">PYTHON</text>
+  </g>
+  <g transform="translate(619 72)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#react)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".24"/><g transform="translate(75 51)" fill="none" stroke="#61dafb" stroke-width="4"><ellipse rx="38" ry="14"/><ellipse rx="38" ry="14" transform="rotate(60)"/><ellipse rx="38" ry="14" transform="rotate(120)"/><circle r="6" fill="#61dafb" stroke="none"/></g><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" letter-spacing="1" fill="#cffafe">REACT</text>
+  </g>
+  <g transform="translate(807 72)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#next)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".22"/><text x="75" y="71" text-anchor="middle" font-family="Arial" font-size="38" font-weight="900" fill="#fff">N</text><path d="M88 39 L112 74" stroke="#fff" stroke-width="5" stroke-linecap="round"/><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" letter-spacing="1" fill="#e5e7eb">NEXT.JS</text>
+  </g>
+  <g transform="translate(995 72)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#ai)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".36"/><path d="M75 25 L82 45 L104 52 L82 59 L75 80 L68 59 L46 52 L68 45Z" fill="#fff"/><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" letter-spacing="1" fill="#f5f3ff">AI AGENTS</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(55 218)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#expo)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".24"/><path d="M46 71 C57 47 66 31 75 31 C84 31 93 47 104 71 C109 82 98 88 90 77 L75 56 L60 77 C52 88 41 82 46 71Z" fill="#fff"/><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" letter-spacing="1" fill="#e2e8f0">EXPO</text>
+  </g>
+  <g transform="translate(243 218)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#supa)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".42"/><path d="M70 24 L46 60 H69 L61 87 L104 46 H79 L88 24Z" fill="#fff"/><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" letter-spacing="1" fill="#064e3b">SUPABASE</text>
+  </g>
+  <g transform="translate(431 218)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#firebase)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".42"/><path d="M51 77 L62 27 L75 49 L86 22 L101 77 L76 89Z" fill="#fff"/><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" letter-spacing="1" fill="#7c2d12">FIREBASE</text>
+  </g>
+  <g transform="translate(619 218)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#swift)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".38"/><path d="M42 31 C69 54 76 56 104 70 C91 78 77 79 66 72 C76 82 89 84 101 80 C84 96 57 86 46 69 C57 76 68 78 75 72 C62 62 52 48 42 31Z" fill="#fff"/><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" letter-spacing="1" fill="#fff">SWIFT</text>
+  </g>
+  <g transform="translate(807 218)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#pg)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".34"/><text x="75" y="70" text-anchor="middle" font-family="Georgia" font-size="42" font-weight="900" fill="#fff">PG</text><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" letter-spacing="1" fill="#dbeafe">POSTGRES</text>
+  </g>
+  <g transform="translate(995 218)" filter="url(#shadow)">
+    <rect width="150" height="112" rx="28" fill="url(#gh)"/><rect x="6" y="6" width="138" height="100" rx="22" fill="url(#shine)" opacity=".26"/><circle cx="75" cy="52" r="29" fill="#fff"/><path d="M58 48 C58 36 64 31 75 31 C86 31 92 36 92 48 C92 58 87 64 82 67 L82 76 H68 V67 C63 64 58 58 58 48Z" fill="#161b22"/><path d="M62 34 L56 28 L57 43 M88 34 L94 28 L93 43" fill="#161b22"/><text x="75" y="99" text-anchor="middle" font-family="Arial" font-size="11" font-weight="800" letter-spacing="1" fill="#f3f4f6">GITHUB</text>
+  </g>
+</svg>

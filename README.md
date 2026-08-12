@@ -1,45 +1,59 @@
-# Aadit Mehta
+# aaditmehtacoder
 
-**Full-stack product engineer shipping AI, web, and iOS products from idea to production.**
+> Memorable developer positioning.
 
-[Portfolio](https://aaditmehta.dev) · [Resume](https://aaditmehta.dev/resume) · [LinkedIn](https://www.linkedin.com/in/aaditmehtacoder/) · [Email](mailto:aaditmehtacoder@gmail.com)
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-I like owning the full path: understanding the problem, designing the product, building the frontend and backend, testing it, and shipping it.
-
-- Shipping production features at **Venu AI (YC W21)** across React and Django
-- Building **[Pick44](https://www.pick44.com)**, an AI visibility platform taken from idea to its first paying customer
-- Built a Roblox product with **68M+ visits** and **10,000 peak concurrent players**
-- Won **1st out of 91 participants** at Synthesis Hacks, hosted at Google
-- Published a native iOS app on the **App Store**
-
-## Selected work
-
-| Product | What I built | Proof |
-|---|---|---|
-| **[Pick44](https://www.pick44.com)** | A platform that shows companies how AI systems describe, compare, and recommend their brands | Built end to end and reached its first paying customer |
-| **[OpenRubric](https://github.com/aaditmehtacoder/openrubric)** | Source-available judging infrastructure for hackathons, with transparent scoring, GitHub review signals, and organizer workflows | Next.js, TypeScript, Supabase, and 200+ automated tests |
-| **[BoreNoMore](https://apps.apple.com/us/app/borenomore/id6749814755)** | A native iOS app designed, built, and shipped from scratch | Published on the App Store |
-| **Beacon5** | A real-time school emergency response product with location sharing, staff tools, and AI-assisted communication | 1st place at Synthesis Hacks |
-| **[Loop](https://github.com/aaditmehtacoder/sproutbyloop)** | A native iOS Screen Time product that lets people earn access to distracting apps through real-world habits | SwiftUI, Family Controls, Device Activity, extensions, and unit tests |
-
-## Engineering
-
-- **Languages:** TypeScript, Python, Swift, JavaScript, Luau
-- **Web:** React, Next.js, Django REST Framework, Tailwind CSS
-- **Mobile:** SwiftUI, React Native, Expo
-- **Data and infrastructure:** PostgreSQL, Supabase, Firebase, Redis, Celery, Azure Storage
-- **AI:** LLM APIs, agent workflows, evaluation, structured outputs, and tool integrations
-
-I care about useful products, clear interfaces, reliable systems, and teams that ship quickly without losing control of the details.
-
-## Currently
-
-- Building Pick44 and improving OpenRubric
-- Shipping production work at Venu AI
-- Learning more about model training, system design, and native iOS engineering
-
+## Header
+> Editing this section in the inspector.
+Hi, I'm **aaditmehtacoder**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aaditmehtacoder&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=aaditmehtacoder&theme=github-dark" alt="aaditmehtacoder hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=aaditmehtacoder&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=aaditmehtacoder&theme=github-dark" alt="aaditmehtacoder about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aaditmehtacoder&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=aaditmehtacoder&theme=github-dark" alt="aaditmehtacoder stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aaditmehtacoder&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=aaditmehtacoder&theme=github-dark" alt="aaditmehtacoder stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=aaditmehtacoder&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=aaditmehtacoder&theme=github-dark" alt="aaditmehtacoder projects section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
 ## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=aaditmehtacoder&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=aaditmehtacoder&theme=github-dark" alt="aaditmehtacoder social section" />
+  </picture>
+</p>
 
-I am open to software engineering internships and opportunities to help ambitious early-stage teams ship real products.
-
-**[aaditmehta.dev](https://aaditmehta.dev)** · **[LinkedIn](https://www.linkedin.com/in/aaditmehtacoder/)** · **[Email](mailto:aaditmehtacoder@gmail.com)**
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
